@@ -1,11 +1,11 @@
-# RoboRally-Project - G17
+# Project - RoboRally-Project
 
-This is a Roborally project from the course [02324](https://kurser.dtu.dk/course/02324) at [DTU](https://www.dtu.dk/).
+RoboRally is a board game where players control programmable robots racing across a hazardous factory floor. Each player programs a sequence of movement cards to navigate their robot toward checkpoints while avoiding obstacles, conveyor belts, and other players’ robots. The goal is to reach all checkpoints in order as quickly as possible, using strategy and planning.
 
-###The team consists of 3 people:
-1. Azmi Uslu - s185736
-2. Sammy Chauhan - s191181
-3. Malaz Alzarrad - s180424
+## Project Origin and Context
+- Project retrieved from my GitHub account created with my student email, due to loss of access.
+- Originally completed as part of the course during the 4th semester in 2023.
+- Re-uploaded to this GitHub repository for reference and portfolio purposes.
 
 ## How to run the Application (Through IntelliJ)
 1. First of all, open the IDE and replace the files with your empty Maven project.
